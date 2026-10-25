@@ -1,9 +1,17 @@
-## Hi there 👋
+# Hi, I'm Moses 👋
 
+## About Me
+- 🌱 I'm currently learning Git and version control
+- 💻 I'm interested in software engineerng
+- 📫 How to reach me:
+
+## Projects
+- [git-learning-log](https://github.com/Mozle941/git-learning-log) - My first Git project tracking a learning log
 <!--
 **Mozle941/Mozle941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
