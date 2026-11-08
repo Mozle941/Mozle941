@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24" fill="none" role="presentation">
+<defs><linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#8b9ac7" stop-opacity=".25"/><stop offset=".5" stop-color="#ffffff"/><stop offset="1" stop-color="#8b9ac7" stop-opacity=".25"/>
+<animate attributeName="x1" values="-1;1" dur="3.5s" repeatCount="indefinite"/><animate attributeName="x2" values="0;2" dur="3.5s" repeatCount="indefinite"/></linearGradient></defs>
+<path d="M335 12H565" stroke="url(#sh)" stroke-width="1.5"/>
+<text x="322" y="17" font-size="14" fill="#8b9ac7" text-anchor="middle">✦<animate attributeName="opacity" values=".4;1;.4" dur="2.4s" repeatCount="indefinite"/></text>
+<text x="578" y="17" font-size="14" fill="#8b9ac7" text-anchor="middle">✦<animate attributeName="opacity" values="1;.4;1" dur="2.4s" repeatCount="indefinite"/></text>
+</svg>
