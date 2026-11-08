@@ -31,7 +31,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',mo
 <circle class="pl" cx="40" cy="50" r="3.5" fill="#3ddc84"/>
 <text class="lbl" x="54" y="54">PROFILE · ONLINE</text>
 <text class="sans fu" x="40" y="108" font-size="46" font-weight="800" fill="#e6edf3" style="animation-delay:.1s">Mos_dev</text>
-<g clip-path="url(#tw)"><text x="40" y="150" font-size="19" fill="#7aa2ff">Backend or systems engineer</text></g>
+<g clip-path="url(#tw)"><text x="40" y="150" font-size="19" fill="#7aa2ff">Backend Systems Engineer</text></g>
 <text class="fu" x="40" y="178" font-size="13" fill="#6f7fa6" style="animation-delay:1s">@Mozle941 · the public internet</text>
 <path d="M40 205H860" stroke="#18203a"/>
 <g class="fu" style="animation-delay:1.2s"><text class="lbl" x="40" y="232" font-size="9">REPOSITORIES</text><text x="40" y="266" font-size="30" font-weight="700" fill="#e6edf3">10</text><rect class="pl" x="190" y="228" width="4" height="4" fill="#4f7cff" style="animation-delay:0.0s"/></g>
