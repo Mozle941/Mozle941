@@ -10,6 +10,15 @@
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/slides-deck?username=mozle941&mode=light" />
+  <img src="https://www.gitskins.com/api/section/slides-deck?username=mozle941&mode=dark" width="100%" alt="My year on GitHub in slides" />
+</picture>
+
+<a href="https://github.com/mozle941">GitHub</a>
+
+<sub>Year in Slides · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+
 ## Identity, with signal
 
 <table>
