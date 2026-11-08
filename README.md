@@ -21,16 +21,6 @@
 <sub>Currently working on a systems design project at NextWork.</sub>
 
 </td>
-<td valign="top">
-
-`LIVE SIGNAL`
-
-**10** repos<br>
-**2** stars<br>
-**35** contributions<br>
-**1** follower
-
-</td>
 </tr>
 </table>
 
