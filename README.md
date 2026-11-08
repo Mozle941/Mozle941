@@ -2,9 +2,9 @@
 
 <img src="assets/hero.svg" width="100%" alt="Mos_dev profile banner">
 
-**Backend systems engineer** · the public internet
+**Backend systems engineer** · 
 
-Felix qui potuit rerum cognoscere causas
+<h1>Felix qui potuit rerum cognoscere causas<h1>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -15,8 +15,6 @@ Felix qui potuit rerum cognoscere causas
 <table>
 <tr>
 <td valign="top" width="65%">
-
-Felix qui potuit rerum cognoscere causas
 
 **Focus:** `Python` · `TypeScript` · `C++`
 
