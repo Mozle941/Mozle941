@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" width="100%" alt="Mos_dev profile banner">
 
-**Backend or systems engineer** · the public internet
+**Backend systems engineer** · the public internet
 
 Felix qui potuit rerum cognoscere causas
 
