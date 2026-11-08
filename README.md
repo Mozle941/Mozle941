@@ -15,21 +15,9 @@
   <img src="https://www.gitskins.com/api/section/slides-deck?username=mozle941&mode=dark" width="100%" alt="My year on GitHub in slides" />
 </picture>
 
-<a href="https://github.com/mozle941">GitHub</a>
-
-## Identity, with signal
-
-<table>
-<tr>
-<td valign="top" width="65%">
-
-**Focus:** `Python` · `TypeScript` · `C++`
-
-<sub>Currently working on a systems design project at NextWork.</sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/wordmark?username=mozle941&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176647019%3Fu%3Db442e5aed61629e0d30abee271211a8c835666e5%26v%3D4&v=showcase-wordmark-2" alt="Mos_dev wordmark visual" />
+</p>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 
