@@ -17,8 +17,6 @@
 
 <a href="https://github.com/mozle941">GitHub</a>
 
-<sub>Year in Slides · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
-
 ## Identity, with signal
 
 <table>
