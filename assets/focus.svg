@@ -22,11 +22,11 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',mo
 <text class="lbl" x="40" y="38">FOCUS STACK</text>
 <g class="fu" style="animation-delay:0.2s"><text x="40" y="86" font-size="30" font-weight="700" fill="#7aa2ff">01</text>
 <path class="gr" d="M40 104H280" stroke="#4f7cff" stroke-opacity=".5" style="animation-delay:0.2s"/>
-<text x="40" y="134" font-size="17" font-weight="700" fill="#e6edf3">Python</text><text x="40" y="156" font-size="11" fill="#6f7fa6">Primary language · 5 public repos</text></g>
+<text x="40" y="134" font-size="17" font-weight="700" fill="#e6edf3">Python</text><text x="40" y="156" font-size="11" fill="#6f7fa6">5 public repositories</text></g>
 <g class="fu" style="animation-delay:0.5s"><text x="320" y="86" font-size="30" font-weight="700" fill="#7aa2ff">02</text>
 <path class="gr" d="M320 104H560" stroke="#4f7cff" stroke-opacity=".5" style="animation-delay:0.5s"/>
-<text x="320" y="134" font-size="17" font-weight="700" fill="#e6edf3">TypeScript</text><text x="320" y="156" font-size="11" fill="#6f7fa6">1 public repo</text></g>
+<text x="320" y="134" font-size="17" font-weight="700" fill="#e6edf3">TypeScript</text><text x="320" y="156" font-size="11" fill="#6f7fa6">3 public repositories</text></g>
 <g class="fu" style="animation-delay:0.8s"><text x="600" y="86" font-size="30" font-weight="700" fill="#7aa2ff">03</text>
 <path class="gr" d="M600 104H840" stroke="#4f7cff" stroke-opacity=".5" style="animation-delay:0.8s"/>
-<text x="600" y="134" font-size="17" font-weight="700" fill="#e6edf3">C++</text><text x="600" y="156" font-size="11" fill="#6f7fa6">1 public repo</text></g>
+<text x="600" y="134" font-size="17" font-weight="700" fill="#e6edf3">C++</text><text x="600" y="156" font-size="11" fill="#6f7fa6">1 public repository</text></g>
 </svg>
